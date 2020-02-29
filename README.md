@@ -9,3 +9,7 @@ dentro de los documentos se incluirá
 --Diseño de pantallas
 --Otros
 
+El documento de requerimientos se encuentra en la siguiente URL:
+https://docs.google.com/document/d/1uCpiV1QlAcUDvk9iJGMz1q64IWZIzpd_bs_V526sVzc/edit?usp=sharing
+
+
