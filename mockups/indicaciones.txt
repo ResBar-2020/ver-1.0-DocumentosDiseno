@@ -1,3 +1,5 @@
 En esta carpeta pondremos los pdf y/o capturas de pantalla donde se visualizan nuestros diseños de interfaz.
 haremos tres diseños, uno para computadora desktop con una resolucion de 1240x768 aproximada, uno para Tablet de 10 pulgadas,
-y uno para celular de 5 pulgadas aproximadamente
+y uno para celular de 5 pulgadas aproximadamente.
+
+Usaran la herramienta que quieran, lo que se subirá al repositorio es un pdf y/o una imagen con el mockup de la interfaz
